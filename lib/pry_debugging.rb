@@ -1,4 +1,3 @@
 def plus_two(num)
-	sum = num + 2
-	sum
+	put num + 2
 end
